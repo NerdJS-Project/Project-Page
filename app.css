@@ -1,0 +1,75 @@
+body{
+    background: #ffffff;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#proto{
+    width: 130px;
+    height: 300px;
+    margin-left: 70px;
+}
+#tech{
+    width: auto;
+    height:100px;
+    margin-right: 30px;
+}
+
+body #background{
+    text-align: center;
+}
+
+#member{
+    margin-right: auto;
+}
+
+.timeline-area{
+    margin: 90px;
+    width: 360px;
+    border-left: 2px solid #ccc; 
+    padding: 0 20px 0 30px;
+}
+
+#event {
+    background:transparent;
+    border: 1px solid #000000;
+    padding: 10px 25px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#foot {
+    text-align: center;
+    color: #fff;
+    padding:20px;
+    background-color: #333;
+    position: sticky;
+    top:100%;
+}
+
+
+
+#mainNavbar {
+    background: white;
+
+}
+
+#mainNavbar .navbar-brand{
+    color: goldenrod;
+}
+
+#mainNavbar .nav-link{
+    color:black;
+}
+
+#mainNavbar .nav-link:hover{
+    color:goldenrod;
+}
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+
+
+
+
